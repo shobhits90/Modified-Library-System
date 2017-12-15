@@ -1,0 +1,8 @@
+C:\Users\shobh\Documents\ISM6258\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+C:\Users\shobh\Documents\ISM6258\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+C:\Users\shobh\Documents\ISM6258\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+C:\Users\shobh\Documents\ISM6258\Assignment5\Assignment5\obj\Debug\Assignment5.Form1.resources
+C:\Users\shobh\Documents\ISM6258\Assignment5\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+C:\Users\shobh\Documents\ISM6258\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.Cache
+C:\Users\shobh\Documents\ISM6258\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+C:\Users\shobh\Documents\ISM6258\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
